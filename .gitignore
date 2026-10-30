@@ -1,0 +1,14 @@
+# Media stays local; publish only to Google Drive.
+assets/
+output/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mp3
+*.wav
+*.mp4
+*.zip
+__pycache__/
+.venv/
+.env
